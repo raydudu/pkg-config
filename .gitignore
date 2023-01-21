@@ -20,7 +20,7 @@ check/config.sh
 compile
 *config.cache
 config.guess
-config.h
+
 config.h.in
 config.log
 config.lt
@@ -35,3 +35,4 @@ ltmain.sh
 missing
 pkg-config
 stamp-h1
+/cmake-build*
